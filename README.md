@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**LucasTeixeiraSantos/LucasTeixeiraSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```typescript
+const lucas: Person = {
+    technologies: {
+        backEnd: { languages: ["Java"], frameworks: ["Spring"] },
+        frontEnd: { languages: ["Typescript", "Javascript"], frameworks: ["Angular"] },
+        databases: ["PostgreSQL", "MySQL"],
+        devOps: ["AWS", "Linux", "Docker", "NGINX", "Network & Infrastructure", "Shell script"],
+    },
+    askMeAbout: ["web development", "culinary", "motorcycles"],
+};
+```
