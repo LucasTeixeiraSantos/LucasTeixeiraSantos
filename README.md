@@ -1,11 +1,11 @@
-```typescript
-const lucas: Person = {
+```javascript
+const lucas = {
     technologies: {
         backEnd: { languages: ["Java"], frameworks: ["Spring"] },
-        frontEnd: { languages: ["Typescript", "Javascript"], frameworks: ["Angular"] },
+        frontEnd: { languages: ["TypeScript", "JavaScript"], frameworks: ["Angular"] },
         databases: ["PostgreSQL", "MySQL", "MongoDB"],
-        devOps: ["Cloud", "Linux", "Docker", "NGINX", "Network & Infrastructure", "Shell script"],
+        devOps: ["Python", "Cloud", "Linux", "Docker", "NGINX", "Network & Infrastructure", "Shell Script"]
     },
-    askMeAbout: ["web development", "culinary", "motorcycles"],
+    askMeAbout: ["web development", "culinary", "motorcycles", "cats"]
 };
 ```
